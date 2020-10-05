@@ -1,8 +1,3 @@
-
-# Made By : Shounak Pattewale
-# Email-Id : shounaky2k@gmail.com
-# Topic : ML Minor Project (Batch : Aug-Sept)
-
 import pandas as pd 
 import matplotlib.pyplot as plt
 import numpy as np
